@@ -28,6 +28,12 @@ Responsive Design | REST APIs | DOM Manipulation | UI/UX Principles
 
 ## 📌 Featured Projects
 
+### 🌐 E-commerce React App
+- 🛒 React Ecommerce | Cart | Login | LocalStorage
+- Full-featured ecommerce app with cart management, user auth, and persistent storage
+🔗Live Demo: https://ecommerce-react-website-ten.vercel.app/ | GitHub: https://github.com/izikmartins/ecommerce-react-website
+
+---
 ### 🌦️ Weather App (React + API)
 - Real-time weather data using API integration  
 - Built with React and async data fetching  
